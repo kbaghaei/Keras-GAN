@@ -1,5 +1,5 @@
-# Keras-GAN
-This is an implementation of Generative Adversarial Networks using Keras. Explained every single step of code for the Keras Newbies.
+# Generative Adversarial Network for Keras Newbies!
+This is an implementation of Generative Adversarial Networks using Keras. Explained every single step of code for the Keras Newbies. So that they can follow step by step of preprocessing, loading and batching data. Also the steps of defining models and training them with backpropagation and steps of generating and storing images are explained as well.
 
 The code written in notebook includes descriptions in details.
 
